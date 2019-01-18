@@ -9,25 +9,25 @@
 // Custom styles for bootlaterus overriding default values
 
 $enable-flex:         true;
-$enable-rounded:      true;
-$enable-shadows:      true;
-$enable-gradients:    true;
+$enable-rounded:      false;
+$enable-shadows:      false;
+$enable-gradients:    falsegrunt;
 $enable-transitions:  true;
 
 //
 // Color system
 //
 $white:    #fff;
-$gray-100: #f2f2f2;
-$gray-200: #e7e6e6;
-$gray-300: #dad8d8;
-$gray-400: #c4c4c4;
-$gray-500: #a8a8a8;
-$gray-600: #817e7e;
-$gray-700: #494949;
-$gray-800: #383838;
-$gray-900: #151515;
-$black:    #000;
+$gray-100: #d6e3ff;
+$gray-200: #c3d2f1;
+$gray-300: #b7caf1;
+$gray-400: #a2b8e7;
+$gray-500: #7693d3;
+$gray-600: #5e7ec2;
+$gray-700: #4563a3;
+$gray-800: #274481;
+$gray-900: #10295f;
+$black:    #00184d;
 
 $blue:    #41a0eb;
 $indigo:  #8752db;
@@ -106,7 +106,7 @@ $grid-gutter-width:           30px !default;
 //
 // Variables for custom elements of bootlaterus
 
-$main-container-bg:         #f2f2f2;
+$main-container-bg:         #fff;
 $main-container-padding:    $grid-gutter-width;
 
 
